@@ -9,3 +9,4 @@
 4. Выполниет команду pip3 install -r requirements.txt 
 5. Действуйте, согласно инструкциям в README.md каждой директории (Lab_1,Lab_2,Lab_3)
 
+Почта для связи: danmerenkov@gmail.com
