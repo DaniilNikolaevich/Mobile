@@ -1,3 +1,3 @@
-Выполниет команду python3 /home/Mobile/Lab_1/main_1.py
+Выполните команду python3 /home/Mobile/Lab_1/main_1.py
 На экран будет выведен результат работы программы.
 
